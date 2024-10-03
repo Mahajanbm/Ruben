@@ -1,0 +1,21 @@
+String reverse
+palindrome string number
+amstrong number
+nion
+ 10 20 30 40 50 60 =>sum of array number 
+
+10 20 30 40 50 10 20 60 90 80 10  20 => 
+10=>3
+20=>3
+30=1
+
+50 90 80 60 70 54 33=>33 50 54 60 80 90=>bubble sort=>
+ 80 90  60  80 94 85 30  80 72 => searching technique=>binary search
+80 position 0th 3rd 7th
+
+welcome to pune city=> counts of words=>4
+welcome to pune city=> total vowels=>7
+welcome to pune city=> a=>0 e=>3 i=>1  o=>2  u=>1
+Ruben Pune maharashtra => ruben pune Maharashtra
+
+
