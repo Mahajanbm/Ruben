@@ -1,0 +1,31 @@
+what is pojo class
+what is persistence class 
+what is diff between pojo and normal class
+how to make class as pojo class?
+how to make class as persistence class?
+how to make normal class to persistence class
+how to make pojo class to persistence class?
+ persietence.xml  indeatils  explanation=>
+what is persistence-unit
+properties
+property
+what are the orm available in market ?
+HQL?
+how hql is differ from sql?
+annotations in  JPA List with detail explationation 
+ Id
+Entity
+Table
+Column
+@ManyToMany
+@ManyToAny what is difference
+
+
+
+
+
+
+
+
+
+
