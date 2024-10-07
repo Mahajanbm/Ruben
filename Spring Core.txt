@@ -1,0 +1,64 @@
+Spring Core
+=>what is DI?  Depenedency Injection 
+=>what is SI? Setter Injection
+=>what CI? Constructor Injection
+
+=>what is loosly coupling and tightly coupling??
+=>what is IOC Container in spring=>BeanFactory ApplicationContext=> whis one is good?
+=> Autowiring in spring types of Autowiring 
+By Name,By type, constuctor=>
+ =>Spring configuration file ?
+<persistence>
+<beans>=>what is beans 
+<bean>=>what is bean difference between beans and bean
+<property></property>
+</bean> 
+
+</beans>
+
+
+HTTP Status code
+2XX success
+200 to 204
+
+3XX redirection
+301 to 305
+
+4xx errors
+400 to 405
+
+
+5XX server errors
+500 to 504 
+
+ tomcat server=> 
+configuration of tomcat server=>
+
+
+EntitiyManagaerFactory emf=Persistence.createEntityMangaer("mahi");
+
+
+class Address 
+{  int flatno;
+String area;
+String city;
+}
+
+ class Student
+{  
+ int roll;
+String name;
+Address address;
+
+
+
+
+ void getData()
+{
+address=new Address();
+address.flatno=1;
+
+address.area="Kothrud";
+}
+
+}
