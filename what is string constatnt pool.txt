@@ -1,0 +1,18 @@
+what is string constatnt pool
+what immuatable and mutable
+how to make class as Immuatable
+what String String buffer and String builder
+diff betn string ,string buffer and string builder
+how to make  class 
+
+Runnable vs callable ?
+What is Future Object?
+What is CompletableFuture?
+Use of Done() , IsCancelled() and Cancel() method of Future Object?
+Explain ThreadLocal class
+What is CountDownLatch?
+What is CyclicBarrier?
+What is ReEntrant lock?
+ExecutorService.submit() vs Executor.execute()?
+Different types of ThreadExecutor Services?
+Explain how FixedThreadPool executor works?
