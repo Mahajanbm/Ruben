@@ -1,0 +1,31 @@
+application.properties
+can we add multiple application.propperties file
+can we delete application.properties file
+what is @SpringBootApplication explain in detail
+ how springboot is differ from spring application
+what MVC Pattern
+ how to change port in spingboot
+ how to change port from application.properties
+what startegy design pattern
+ what is front controller in java
+what servlet dispatcher
+have you Lombok in application or not 
+what are the annotation of lombok
+@Controller
+@RestController
+@RequestMapping
+@Autowired
+@Service
+@Repository
+put post delete Get 
+@putmapping
+@GetMapping
+@Deletemapping
+@PostMapping
+what is DAO 
+ create layered architecture using DAO
+how do handle exception handling in spring application  using runtime  exception
+
+create application using springboot
+curd operation using spring boot
+
