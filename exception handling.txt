@@ -1,0 +1,49 @@
+exception handling 
+ compile time and runtime 
+ why exception handling?  is there any alternate option or not =>yes but lot of if else statement to check conditions  code is more
+what  error and what is exception
+what is exception handling
+how do you handle exception in java
+what is try catch?
+what is try finally?
+what  is try catch and finally?
+ explain generic catch block what is the position for generic catch block
+how do you handle exception using try catch and finally?
+ how many catch block we can add with try block?
+how many finally block we can add with try block?
+ can we add more than one try block in try block??
+what is inner try catch  finally?
+what is purpose of finally
+can we write try block without catch or finally?=>try with resource example 
+what is throw and throws=> it is for method it for mostly user define exception
+what are the exception classes
+what is runtime exception
+what is user  define exception?
+what is base class for exception??
+how do you handle exception in spring boot
+
+Multithreading 
+1 what is multitasking  vs multiprocessing
+2 what is process
+3 what thread?
+4 what are problem with sequential programming step by step?
+5 what is multithreading
+5 what is runnable inter face and what thread class
+6 in how many ways you can achieve multithreading
+7.write a output for given program in multithreading?=> 
+8.what are the method of Thread class?
+sleep
+yield  what is diff between sleep and yield?
+wait ?
+diff between wait and sleep?
+ 
+
+
+
+
+
+
+
+
+
+
