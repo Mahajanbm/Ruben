@@ -1,0 +1,8 @@
+what are SOLID Priciples  with programs?
+what is singleton design pattern
+ what is factorymethod design pattern?
+ what is MVC Design pattern ?
+ what is servlet dispatcher?
+what is forntcontroller design pattern?
+
+all the solutions with programs
