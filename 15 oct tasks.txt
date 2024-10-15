@@ -1,0 +1,9 @@
+15 oct tasks
+ what is Design pattern?\
+why we required Design pattern?
+how it is differ from SOLID principles?
+
+what are design pattern?
+list all the Design pattern
+explain all 23 Design pattern with example
+ what is Saga pattern
