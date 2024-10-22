@@ -1,0 +1,7 @@
+create CURD operation using lombook in spring boot
+create CURD operation using Dao Layered 
+create curd operation using  mvc ?
+what is stream api in java??
+what are the methods of streamapi?
+ what map and flatmap in stream  api
+ what is filter in stream api?
