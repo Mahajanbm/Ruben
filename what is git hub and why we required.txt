@@ -1,0 +1,8 @@
+what is git hub and why we required GitHub
+ what is git and github
+ what are the commands of GitHub
+what is maven why we required maven
+maven life cycle
+list out maven command
+what is difference between gradle and maven
+when to use maven when to use Gradle 
