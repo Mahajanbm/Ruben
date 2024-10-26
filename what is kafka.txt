@@ -1,0 +1,6 @@
+what is kafka?
+ why we required kafka?
+ what are kafka  elements? 
+ what is broker ?
+what zookeeper?
+perforn curd operation using kafka?
