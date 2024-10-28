@@ -1,0 +1,10 @@
+what  is web service why we require web service?
+ what is wsdl
+what are types of services?
+what is REST?
+what are REST Ful services
+what are principle of RESTful
+how do you test web service
+ what is microservices
+ how to create Microservice
+CURD Operation using REST and Microservices
