@@ -1,0 +1,29 @@
+1.What is Spring Security and what are its primary features?
+2.How does Spring Security integrate with other Spring frameworks?
+3.Can you explain the purpose of the WebSecurityConfigurerAdapter in Spring Security?
+4.What is the role of an `AuthenticationManager` in Spring Security?
+5.How does Spring Security handle role-based access control?
+6.What is the difference between authentication and authorization in the context of Spring Security?
+7.How do you configure HTTP basic authentication in Spring Security?
+8.Can you describe the process of implementing OAuth2 in Spring Security?
+9.What are the uses of the `@PreAuthorize` and `@PostAuthorize` annotations in Spring Security?
+10.How does Spring Security support JWT (JSON Web Tokens)?
+11.What is the purpose of the `UserDetailsService` interface in Spring Security?
+12.How can you handle session management in Spring Security?
+13.What is CSRF (Cross-Site Request Forgery) and how does Spring Security protect against it?(very imp)
+14.How do you configure method-level security in Spring Security?
+15.What are the different types of authentication providers in Spring Security?
+16.How can Spring Security be used to secure RESTful APIs?
+17.What is the difference between `hasRole` and `hasAuthority` in Spring Security?
+18.How do you customize the login and logout process in Spring Security?
+19.What is the purpose of the `PasswordEncoder` interface in Spring Security?
+20.How does Spring Security facilitate domain object security?
+21.Can you explain the concept of ACL (Access Control List) in Spring Security?
+22.What is the significance of the `SecurityContextHolder` in Spring Security?
+23.How do you manage cross-origin requests in Spring Security?
+24.What is the role of filters in Spring Security?
+25.How do you implement two-factor authentication in Spring Security?
+26.Can you describe the steps to set up a SAML-based SSO (Single Sign-On) with Spring Security?
+27.What strategies can you use to handle concurrent session control in Spring Security?
+28.How do you customize access-denied responses in Spring Security?
+29.Can you explain the process of securing a microservices architecture using Spring Security?
